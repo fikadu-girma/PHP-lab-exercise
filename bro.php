@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="bro.php">
+    <form action="bro.php" method = "get">
         <label for="#">username:</label><br>
         <input type="text" name="username"> <br>
         <label for="#">password:</label><br>
