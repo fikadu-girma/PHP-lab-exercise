@@ -1,11 +1,4 @@
 
-<!-- ************ NAME AND ID No. ************ 
-       NAME: FIKADU GRIMA
-       ID No: 1270/16
-       COURSE: WEB DEGIGN AND PROGRAMMING-II(SEng3053)
-     *****************************************
--->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

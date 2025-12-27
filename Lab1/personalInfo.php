@@ -1,9 +1,4 @@
-<?php 
-/* 
-I use 
-<?= ?> shortcut in html instead of
-<?php echo ?>
-*/
+
 $name = " Fikadu Girma";
 $id = 1270;
 $department = "Software Enginnering";
