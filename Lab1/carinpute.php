@@ -1,13 +1,10 @@
 <?php
-// Start a session so the array can persist between submissions
 session_start();
 
-// Initialize the cars array if it doesn't exist yet
 if (!isset($_SESSION['cars'])) {
     $_SESSION['cars'] = [];
 }
 
-// When the form is submitted, add the car name to the array
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $carName = trim($_POST['car_name']);
 
